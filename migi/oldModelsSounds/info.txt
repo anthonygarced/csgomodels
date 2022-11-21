@@ -1,8 +1,0 @@
-incase you haven't noticed already, on workshop maps like de_dust2_old, old models don't work correcly.
-
-simple fix is this funny little "de_dust2_old.kv" file here
-
-what this file does is define what player models will be used when the map is loaded, in this case i've set them to the
-correct models needed, so my cool looking 2015 player models will apply.
-
-
