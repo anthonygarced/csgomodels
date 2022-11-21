@@ -1,0 +1,28 @@
+{
+	"name": "CSCOD 4 Source Scheme",
+	"author": "sashie",
+	"social": "https://allmylinks.com/sashie",
+	"authors": 
+	[
+		{
+			"name": "sashie", 
+			"social": "https://twitter.com/sashiezzz", 
+			"role": "Translated to english, fixed formatting, etc"
+		},
+		{
+			"name": "ZooL", 
+			"social": "https://twitter.com/ZooL_Smith", 
+			"role": "Assisted"
+		},
+		{
+			"name": "r99t", 
+			"social": "https://gamebanana.com/", 
+			"role": "Original Reference - DE"
+		},
+		{
+			"name": "Valve", 
+			"role": "Original Asset"
+		}
+	],
+	"replacement": "Console colors, source scheme, etc"
+}
