@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\custom_player\natalya\evangelion\shinji\shinji-plug"
+	"$nocull" "1"
+}

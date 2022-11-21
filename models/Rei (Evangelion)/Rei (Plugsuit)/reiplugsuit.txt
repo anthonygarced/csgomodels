@@ -1,0 +1,11 @@
+// Player model
+models/player/custom_player/natalya/evangelion/rei/rei-plug.mdl
+models/player/custom_player/natalya/evangelion/rei/rei-plug.dx90.vtx
+models/player/custom_player/natalya/evangelion/rei/rei-plug.phy
+models/player/custom_player/natalya/evangelion/rei/rei-plug.vvd
+
+// Materials
+materials/models/player/custom_player/natalya/evangelion/rei/rei-plug.vmt
+materials/models/player/custom_player/natalya/evangelion/rei/rei-plug.vtf
+materials/models/player/custom_player/natalya/evangelion/rei/rei-plug-face.vmt
+materials/models/player/custom_player/natalya/evangelion/rei/rei-plug-face.vtf

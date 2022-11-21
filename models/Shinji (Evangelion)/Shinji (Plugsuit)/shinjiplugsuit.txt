@@ -1,0 +1,11 @@
+// Player model
+models/player/custom_player/natalya/evangelion/shinji/shinji-plug.mdl
+models/player/custom_player/natalya/evangelion/shinji/shinji-plug.dx90.vtx
+models/player/custom_player/natalya/evangelion/shinji/shinji-plug.phy
+models/player/custom_player/natalya/evangelion/shinji/shinji-plug.vvd
+
+// Materials
+materials/models/player/custom_player/natalya/evangelion/shinji/shinji-plug.vmt
+materials/models/player/custom_player/natalya/evangelion/shinji/shinji-plug.vtf
+materials/models/player/custom_player/natalya/evangelion/shinji/shinji-plug-face.vmt
+materials/models/player/custom_player/natalya/evangelion/shinji/shinji-plug-face.vtf
