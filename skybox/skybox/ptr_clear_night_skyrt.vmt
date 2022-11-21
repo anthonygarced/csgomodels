@@ -1,0 +1,7 @@
+"unlitGeneric"
+{
+	"$baseTexture" "skybox/ptr_Clear_night_skyRt"
+	"$nofog" "1"
+	"$ignorez" "1"
+
+}

@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "skybox/pandora_bbk"
+	"$ignorez" "1"
+	"$nofog" "1"
+}

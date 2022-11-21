@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "skybox/pandora_flf"
+	"$ignorez" "1"
+	"$nofog" "1"
+}

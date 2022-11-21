@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "skybox/space_16rt"
+	"$nofog" 1
+	"$ignorez" 1
+}

@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+    "$basetexture" "skybox/WhiteDwarfLf"
+    "$hdrbasetexture" "skybox/WhiteDwarfLf"
+    "$nofog" "1"
+    "$ignorez" "1"
+
+}
