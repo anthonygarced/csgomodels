@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+    "$baseTexture" "models\player\natalya\evangelion\asuka\asuka-dress-00"
+//	"$bumpmap" "models\player\natalya\sailor_moon\sailor_eyesx_normal"
+	
+	"$nocull" "1"
+
+// 	"$phong" "1"
+//	"$phongexponent" "20"
+//	"$phongboost"	"0.8"
+//	"$phongfresnelranges"	"[1 1 1]"
+}
