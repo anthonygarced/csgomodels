@@ -1,0 +1,48 @@
+// TF2 Medic ported by Kuristaja //
+
+// Player model (RED)
+models/player/custom_player/kuristaja/tf2/medic/medic_redv2.dx90.vtx
+models/player/custom_player/kuristaja/tf2/medic/medic_redv2.mdl
+models/player/custom_player/kuristaja/tf2/medic/medic_redv2.phy
+models/player/custom_player/kuristaja/tf2/medic/medic_redv2.vvd
+
+// Player model (BLU)
+models/player/custom_player/kuristaja/tf2/medic/medic_bluv2.dx90.vtx
+models/player/custom_player/kuristaja/tf2/medic/medic_bluv2.mdl
+models/player/custom_player/kuristaja/tf2/medic/medic_bluv2.phy
+models/player/custom_player/kuristaja/tf2/medic/medic_bluv2.vvd
+
+// Arms model (RED)
+models/player/custom_player/kuristaja/tf2/medic/medic_red_arms.dx90.vtx
+models/player/custom_player/kuristaja/tf2/medic/medic_red_arms.mdl
+models/player/custom_player/kuristaja/tf2/medic/medic_red_arms.vvd
+
+// Arms model (BLU)
+models/player/custom_player/kuristaja/tf2/medic/medic_blu_arms.dx90.vtx
+models/player/custom_player/kuristaja/tf2/medic/medic_blu_arms.mdl
+models/player/custom_player/kuristaja/tf2/medic/medic_blu_arms.vvd
+
+// Materials
+materials/models/player/kuristaja/tf2/medic/eyes.vmt
+materials/models/player/kuristaja/tf2/medic/medic_backpack_blue.vmt
+materials/models/player/kuristaja/tf2/medic/medic_backpack_red.vmt
+materials/models/player/kuristaja/tf2/medic/medic_blue.vmt
+materials/models/player/kuristaja/tf2/medic/medic_hands_blue.vmt
+materials/models/player/kuristaja/tf2/medic/medic_hands_red.vmt
+materials/models/player/kuristaja/tf2/medic/medic_handsw_blue.vmt
+materials/models/player/kuristaja/tf2/medic/medic_handsw_red.vmt
+materials/models/player/kuristaja/tf2/medic/medic_head_blue.vmt
+materials/models/player/kuristaja/tf2/medic/medic_head_red.vmt
+materials/models/player/kuristaja/tf2/medic/medic_red.vmt
+materials/models/player/kuristaja/tf2/medic/engineer_hands_lightwarp.vtf
+materials/models/player/kuristaja/tf2/medic/eye-iris-blue.vtf
+materials/models/player/kuristaja/tf2/medic/medic_backpack_blue.vtf
+materials/models/player/kuristaja/tf2/medic/medic_backpack_red.vtf
+materials/models/player/kuristaja/tf2/medic/medic_blue.vtf
+materials/models/player/kuristaja/tf2/medic/medic_hands_blue.vtf
+materials/models/player/kuristaja/tf2/medic/medic_hands_red.vtf
+materials/models/player/kuristaja/tf2/medic/medic_head.vtf
+materials/models/player/kuristaja/tf2/medic/medic_normal.vtf
+materials/models/player/kuristaja/tf2/medic/medic_red.vtf
+materials/models/player/kuristaja/tf2/medic/pyro_lightwarp.vtf
+materials/models/player/kuristaja/tf2/medic/shared_normal.vtf
