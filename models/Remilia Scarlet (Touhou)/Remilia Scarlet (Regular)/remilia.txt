@@ -1,0 +1,7 @@
+// Remilia Scarlet //
+
+// Player model
+models/player/custom_player/maoling/touhou/remilia_scarlet/remilia_scarlet.mdl
+
+// Arms
+models/player/custom_player/maoling/touhou/remilia_scarlet/remilia_scarlet_arms.mdl
