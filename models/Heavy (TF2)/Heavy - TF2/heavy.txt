@@ -1,0 +1,43 @@
+// TF2 Heavy ported by Kuristaja //
+
+// Player model (RED)
+models/player/custom_player/kuristaja/tf2/heavy/heavy_redv2.dx90.vtx
+models/player/custom_player/kuristaja/tf2/heavy/heavy_redv2.mdl
+models/player/custom_player/kuristaja/tf2/heavy/heavy_redv2.phy
+models/player/custom_player/kuristaja/tf2/heavy/heavy_redv2.vvd
+
+// Player model (BLU)
+models/player/custom_player/kuristaja/tf2/heavy/heavy_bluv2.dx90.vtx
+models/player/custom_player/kuristaja/tf2/heavy/heavy_bluv2.mdl
+models/player/custom_player/kuristaja/tf2/heavy/heavy_bluv2.phy
+models/player/custom_player/kuristaja/tf2/heavy/heavy_bluv2.vvd
+
+// Arms model (RED)
+models/player/custom_player/kuristaja/tf2/heavy/heavy_red_arms.dx90.vtx
+models/player/custom_player/kuristaja/tf2/heavy/heavy_red_arms.mdl
+models/player/custom_player/kuristaja/tf2/heavy/heavy_red_arms.vvd
+
+// Arms model (BLU)
+models/player/custom_player/kuristaja/tf2/heavy/heavy_blu_arms.dx90.vtx
+models/player/custom_player/kuristaja/tf2/heavy/heavy_blu_arms.mdl
+models/player/custom_player/kuristaja/tf2/heavy/heavy_blu_arms.vvd
+
+// Materials
+materials/models/player/kuristaja/tf2/heavy/eyes.vmt
+materials/models/player/kuristaja/tf2/heavy/heavy_head_blue.vmt
+materials/models/player/kuristaja/tf2/heavy/heavy_head_red.vmt
+materials/models/player/kuristaja/tf2/heavy/hvyweapon_blue.vmt
+materials/models/player/kuristaja/tf2/heavy/hvyweapon_blue_sheen.vmt
+materials/models/player/kuristaja/tf2/heavy/hvyweapon_hands.vmt
+materials/models/player/kuristaja/tf2/heavy/hvyweapon_red.vmt
+materials/models/player/kuristaja/tf2/heavy/hvyweapon_red_sheen.vmt
+materials/models/player/kuristaja/tf2/heavy/engineer_hands_lightwarp.vtf
+materials/models/player/kuristaja/tf2/heavy/eye-iris-blue.vtf
+materials/models/player/kuristaja/tf2/heavy/hand_lightwarp.vtf
+materials/models/player/kuristaja/tf2/heavy/heavy_head.vtf
+materials/models/player/kuristaja/tf2/heavy/hvyweapon_blue.vtf
+materials/models/player/kuristaja/tf2/heavy/hvyweapon_hands.vtf
+materials/models/player/kuristaja/tf2/heavy/hvyweapon_normal.vtf
+materials/models/player/kuristaja/tf2/heavy/hvyweapon_red.vtf
+materials/models/player/kuristaja/tf2/heavy/pyro_lightwarp.vtf
+materials/models/player/kuristaja/tf2/heavy/shared_normal.vtf

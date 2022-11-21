@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/tf2/heavy/hvyweapon_hands"
+	"$basemapalphaphongmask" "1"
+
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "1.2"	
+	"$lightwarptexture" "models/player/kuristaja/tf2/heavy/hand_lightwarp"
+	"$phongfresnelranges"	"[.5 3 5]"
+	"$halflambert" "1"
+	
+	// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "8"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" ".8"										// Boost for ambient cube component of rim lighting
+
+}
+
+
+
