@@ -1,0 +1,11 @@
+// Player model
+models/player/custom_player/natalya/evangelion/asuka/asuka-plug.mdl
+models/player/custom_player/natalya/evangelion/asuka/asuka-plug.phy
+models/player/custom_player/natalya/evangelion/asuka/asuka-plug.vvd
+models/player/custom_player/natalya/evangelion/asuka/asuka-plug.dx90.vtx
+
+// Materials
+materials/models/player/natalya/evangelion/asuka/asuka-plug.vmt
+materials/models/player/natalya/evangelion/asuka/asuka-plug.vtf
+materials/models/player/natalya/evangelion/asuka/asuka-plug-face.vmt
+materials/models/player/natalya/evangelion/asuka/asuka-plug-face.vtf
