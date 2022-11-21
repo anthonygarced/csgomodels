@@ -1,7 +1,7 @@
 <h1 align="center">CSGO Sounds, Skyboxes, & Models</h1>
 
-This repository hosts a lot of CS:GO models. You can use the models via your own server to use, or through the use of modded clients.
-Please note that some of the models here may be broken or not. If they are, make an issue on this repository and I'll make sure to note it, and try to find a working model on the internet. This will also contains CS:GO source and skyboxes and such for you to install.
+<h3 align="center"> This repository hosts a lot of CS:GO models. You can use the models via your own server to use, or through the use of modded clients.
+Please note that some of the models here may be broken or not. If they are, make an issue on this repository and I'll make sure to note it, and try to find a working model on the internet. This will also contains CS:GO source and skyboxes and such for you to install.</h3>
 
 <h4 align="center">Special thanks for contributing files: pyr0#0001 (@lolpyr0)** -> https://www.youtube.com/@ballshack ;D</h4>
 
