@@ -1,0 +1,3 @@
+Ignore this file. This is supposed to be something so that github can make a folder.
+
+Remember to read the readme.md for instructions.
