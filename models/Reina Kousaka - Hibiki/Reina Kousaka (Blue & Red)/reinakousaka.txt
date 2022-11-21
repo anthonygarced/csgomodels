@@ -1,0 +1,42 @@
+// Player model (Reina Red)
+models/player/custom_player/caleon1/reinakousaka/reina_red.dx90.vtx
+models/player/custom_player/caleon1/reinakousaka/reina_red.mdl
+models/player/custom_player/caleon1/reinakousaka/reina_red.phy
+models/player/custom_player/caleon1/reinakousaka/reina_red.vvd
+
+// Arms model (Reina Red)
+models/player/custom_player/caleon1/reinakousaka/reina_red_arms.dx90.vtx
+models/player/custom_player/caleon1/reinakousaka/reina_red_arms.mdl
+models/player/custom_player/caleon1/reinakousaka/reina_red_arms.vvd
+
+// Materials (Reina Red)
+materials/models/player/custom_player/caleon1/reinakousaka/drzka.vmt
+materials/models/player/custom_player/caleon1/reinakousaka/drzka.vtf
+materials/models/player/custom_player/caleon1/reinakousaka/obleceni.vmt
+materials/models/player/custom_player/caleon1/reinakousaka/obleceni.vtf
+materials/models/player/custom_player/caleon1/reinakousaka/telo.vmt
+materials/models/player/custom_player/caleon1/reinakousaka/telo.vtf
+materials/models/player/custom_player/caleon1/reinakousaka/vlasy.vmt
+materials/models/player/custom_player/caleon1/reinakousaka/vlasy.vtf
+
+
+// Player model (Reina Blue)
+models/player/custom_player/caleon1/reinakousaka/reina_blue.dx90.vtx
+models/player/custom_player/caleon1/reinakousaka/reina_blue.mdl
+models/player/custom_player/caleon1/reinakousaka/reina_blue.phy
+models/player/custom_player/caleon1/reinakousaka/reina_blue.vvd
+
+// Arms model (Reina Blue)
+models/player/custom_player/caleon1/reinakousaka/reina_blue_arms.dx90.vtx
+models/player/custom_player/caleon1/reinakousaka/reina_blue_arms.mdl
+models/player/custom_player/caleon1/reinakousaka/reina_blue_arms.vvd
+
+// Materials (Reina Blue)
+materials/models/player/custom_player/caleon1/reinakousaka/drzka_blue.vmt
+materials/models/player/custom_player/caleon1/reinakousaka/drzka_blue.vtf
+materials/models/player/custom_player/caleon1/reinakousaka/obleceni_blue.vmt
+materials/models/player/custom_player/caleon1/reinakousaka/obleceni_blue.vtf
+materials/models/player/custom_player/caleon1/reinakousaka/telo_blue.vmt
+materials/models/player/custom_player/caleon1/reinakousaka/telo_blue.vtf
+materials/models/player/custom_player/caleon1/reinakousaka/vlasy_blue.vmt
+materials/models/player/custom_player/caleon1/reinakousaka/vlasy_blue.vtf
