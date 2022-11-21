@@ -4,6 +4,7 @@ This repository hosts a lot of CS:GO models. You can use the models via your own
 Please note that some of the models here may be broken or not. If they are, make an issue on this repository and I'll make sure to note it, and try to find a working model on the internet. This will also contains CS:GO source and skyboxes and such for you to install.
 
 Special thanks for contributing files: pyr0#0001 (@lolpyr0)
+  -https://www.youtube.com/@ballshack ;D
 
 # For instructions below on how to install these, read here:
 
