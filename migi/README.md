@@ -5,6 +5,6 @@
 - ⬇️ Download MIGI here: https://zoolsmith.github.io/MIGI3/
 
 ## Addons -
- - ~> Popular Assets
-   - -> <a href="https://github.com/anthonygarced/csgomodels/tree/main/migi/oldModelsSounds">Old Player Models & Sounds</a>
-   - -> <a href="https://github.com/anthonygarced/csgomodels/tree/main/migi/sourceModels">Source Models & Wpn Models</a>
+ - Popular Assets
+   - <a href="https://github.com/anthonygarced/csgomodels/tree/main/migi/oldModelsSounds">Old Player Models & Sounds</a> -> 2015 Weapon sounds & Old player models
+   - <a href="https://github.com/anthonygarced/csgomodels/tree/main/migi/sourceModels">Source Models & Wpn Models</a> -> Self explanatory
