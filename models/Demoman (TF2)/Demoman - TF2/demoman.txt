@@ -1,0 +1,42 @@
+// TF2 Demoman ported by Kuristaja //
+
+// Player model (RED)
+models/player/custom_player/kuristaja/tf2/demoman/demoman_redv2.dx90.vtx
+models/player/custom_player/kuristaja/tf2/demoman/demoman_redv2.mdl
+models/player/custom_player/kuristaja/tf2/demoman/demoman_redv2.phy
+models/player/custom_player/kuristaja/tf2/demoman/demoman_redv2.vvd
+
+// Player model (BLU)
+models/player/custom_player/kuristaja/tf2/demoman/demoman_bluv2.dx90.vtx
+models/player/custom_player/kuristaja/tf2/demoman/demoman_bluv2.mdl
+models/player/custom_player/kuristaja/tf2/demoman/demoman_bluv2.phy
+models/player/custom_player/kuristaja/tf2/demoman/demoman_bluv2.vvd
+
+// Arms model (RED)
+models/player/custom_player/kuristaja/tf2/demoman/demoman_red_arms.dx90.vtx
+models/player/custom_player/kuristaja/tf2/demoman/demoman_red_arms.mdl
+models/player/custom_player/kuristaja/tf2/demoman/demoman_red_arms.vvd
+
+// Arms model (BLU)
+models/player/custom_player/kuristaja/tf2/demoman/demoman_blu_arms.dx90.vtx
+models/player/custom_player/kuristaja/tf2/demoman/demoman_blu_arms.mdl
+models/player/custom_player/kuristaja/tf2/demoman/demoman_blu_arms.vvd
+
+// Materials
+materials/models/player/kuristaja/tf2/demoman/demoman_arms_blue.vmt
+materials/models/player/kuristaja/tf2/demoman/demoman_arms_red.vmt
+materials/models/player/kuristaja/tf2/demoman/demoman_blue.vmt
+materials/models/player/kuristaja/tf2/demoman/demoman_hands.vmt
+materials/models/player/kuristaja/tf2/demoman/demoman_head_blue.vmt
+materials/models/player/kuristaja/tf2/demoman/demoman_head_red.vmt
+materials/models/player/kuristaja/tf2/demoman/demoman_red.vmt
+materials/models/player/kuristaja/tf2/demoman/eyes.vmt
+materials/models/player/kuristaja/tf2/demoman/demoman_blue.vtf
+materials/models/player/kuristaja/tf2/demoman/demoman_hands.vtf
+materials/models/player/kuristaja/tf2/demoman/demoman_head.vtf
+materials/models/player/kuristaja/tf2/demoman/demoman_normal.vtf
+materials/models/player/kuristaja/tf2/demoman/demoman_red.vtf
+materials/models/player/kuristaja/tf2/demoman/engineer_hands_lightwarp.vtf
+materials/models/player/kuristaja/tf2/demoman/eye-iris-brown.vtf
+materials/models/player/kuristaja/tf2/demoman/pyro_lightwarp.vtf
+materials/models/player/kuristaja/tf2/demoman/shared_normal.vtf
