@@ -1,8 +1,0 @@
-"UnlitGeneric"
-{
-    "$basetexture" "skybox/WhiteDwarfDn"
-     "$hdrbasetexture" "skybox/WhiteDwarfDn"
-     "$nofog" "1"
-    "$ignorez" "1"
-
-}

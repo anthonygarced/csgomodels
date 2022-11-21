@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-// Original shader: BaseTexture
-"$basetexture" "skybox/ptr_grimmnightft"
-"$nofog" 1
-$ignorez 1
-}

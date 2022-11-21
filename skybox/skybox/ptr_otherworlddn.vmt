@@ -1,6 +1,0 @@
-"UnlitGeneric"
-{
-    "$basetexture" "skybox/ptr_otherworlddn"
-    "$nofog" 1
-    "$ignorez" 1
-}

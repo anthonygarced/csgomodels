@@ -1,8 +1,0 @@
-sky
-{
-	$basetexture "skybox/Real_SkySunsetdn"
-	$hdrbasetexture "skybox/Real_SkySunsetdn"
-
-	$nofog 1
-	$ignorez 1
-}

@@ -1,8 +1,0 @@
-unlitgeneric
-{
-
-	$basetexture "skybox/cloudynightup"
-	"$nofog" "1"
-	"$ignorez" "1"
-	
-}
