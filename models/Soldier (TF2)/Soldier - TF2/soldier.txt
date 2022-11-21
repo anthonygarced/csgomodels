@@ -1,0 +1,46 @@
+// TF2 Soldier ported by Kuristaja //
+
+// Player model (RED)
+models/player/custom_player/kuristaja/tf2/soldier/soldier_redv2.dx90.vtx
+models/player/custom_player/kuristaja/tf2/soldier/soldier_redv2.mdl
+models/player/custom_player/kuristaja/tf2/soldier/soldier_redv2.phy
+models/player/custom_player/kuristaja/tf2/soldier/soldier_redv2.vvd
+
+// Player model (BLU)
+models/player/custom_player/kuristaja/tf2/soldier/soldier_bluv2.dx90.vtx
+models/player/custom_player/kuristaja/tf2/soldier/soldier_bluv2.mdl
+models/player/custom_player/kuristaja/tf2/soldier/soldier_bluv2.phy
+models/player/custom_player/kuristaja/tf2/soldier/soldier_bluv2.vvd
+
+// Arms model (RED)
+models/player/custom_player/kuristaja/tf2/soldier/soldier_red_arms.dx90.vtx
+models/player/custom_player/kuristaja/tf2/soldier/soldier_red_arms.mdl
+models/player/custom_player/kuristaja/tf2/soldier/soldier_red_arms.vvd
+
+// Arms model (BLU)
+models/player/custom_player/kuristaja/tf2/soldier/soldier_blu_arms.dx90.vtx
+models/player/custom_player/kuristaja/tf2/soldier/soldier_blu_arms.mdl
+models/player/custom_player/kuristaja/tf2/soldier/soldier_blu_arms.vvd
+
+// Materials
+materials/models/player/kuristaja/tf2/soldier/eyes.vmt
+materials/models/player/kuristaja/tf2/soldier/soldier_blue.vmt
+materials/models/player/kuristaja/tf2/soldier/soldier_hands.vmt
+materials/models/player/kuristaja/tf2/soldier/soldier_head_blue.vmt
+materials/models/player/kuristaja/tf2/soldier/soldier_head_red.vmt
+materials/models/player/kuristaja/tf2/soldier/soldier_red.vmt
+materials/models/player/kuristaja/tf2/soldier/soldier_sleeves_blue.vmt
+materials/models/player/kuristaja/tf2/soldier/soldier_sleeves_red.vmt
+materials/models/player/kuristaja/tf2/soldier/engineer_hands_lightwarp.vtf
+materials/models/player/kuristaja/tf2/soldier/eye-iris-blue.vtf
+materials/models/player/kuristaja/tf2/soldier/hand_lightwarp.vtf
+materials/models/player/kuristaja/tf2/soldier/pyro_lightwarp.vtf
+materials/models/player/kuristaja/tf2/soldier/shared_normal.vtf
+materials/models/player/kuristaja/tf2/soldier/soldier_blue.vtf
+materials/models/player/kuristaja/tf2/soldier/soldier_hands.vtf
+materials/models/player/kuristaja/tf2/soldier/soldier_head.vtf
+materials/models/player/kuristaja/tf2/soldier/soldier_normal.vtf
+materials/models/player/kuristaja/tf2/soldier/soldier_red.vtf
+materials/models/player/kuristaja/tf2/soldier/soldier_sleeves_blue.vtf
+materials/models/player/kuristaja/tf2/soldier/soldier_sleeves_normal.vtf
+materials/models/player/kuristaja/tf2/soldier/soldier_sleeves_red.vtf
