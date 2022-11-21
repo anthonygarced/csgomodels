@@ -1,0 +1,37 @@
+// TF2 Pyro ported by Kuristaja //
+
+// Player model (RED)
+models/player/custom_player/kuristaja/tf2/pyro/pyro_redv2.dx90.vtx
+models/player/custom_player/kuristaja/tf2/pyro/pyro_redv2.mdl
+models/player/custom_player/kuristaja/tf2/pyro/pyro_redv2.phy
+models/player/custom_player/kuristaja/tf2/pyro/pyro_redv2.vvd
+
+// Player model (BLU)
+models/player/custom_player/kuristaja/tf2/pyro/pyro_bluv2.dx90.vtx
+models/player/custom_player/kuristaja/tf2/pyro/pyro_bluv2.mdl
+models/player/custom_player/kuristaja/tf2/pyro/pyro_bluv2.phy
+models/player/custom_player/kuristaja/tf2/pyro/pyro_bluv2.vvd
+
+// Arms model (RED)
+models/player/custom_player/kuristaja/tf2/pyro/pyro_red_arms.dx90.vtx
+models/player/custom_player/kuristaja/tf2/pyro/pyro_red_arms.mdl
+models/player/custom_player/kuristaja/tf2/pyro/pyro_red_arms.vvd
+
+// Arms model (BLU)
+models/player/custom_player/kuristaja/tf2/pyro/pyro_blu_arms.dx90.vtx
+models/player/custom_player/kuristaja/tf2/pyro/pyro_blu_arms.mdl
+models/player/custom_player/kuristaja/tf2/pyro/pyro_blu_arms.vvd
+
+// Materials
+materials/models/player/kuristaja/tf2/pyro/pyro_arms_blue.vmt
+materials/models/player/kuristaja/tf2/pyro/pyro_arms_red.vmt
+materials/models/player/kuristaja/tf2/pyro/pyro_blue.vmt
+materials/models/player/kuristaja/tf2/pyro/pyro_hands_blue.vmt
+materials/models/player/kuristaja/tf2/pyro/pyro_hands_red.vmt
+materials/models/player/kuristaja/tf2/pyro/pyro_red.vmt
+materials/models/player/kuristaja/tf2/pyro/engineer_hands_lightwarp.vtf
+materials/models/player/kuristaja/tf2/pyro/pyro_blue.vtf
+materials/models/player/kuristaja/tf2/pyro/pyro_hands.vtf
+materials/models/player/kuristaja/tf2/pyro/pyro_lightwarp.vtf
+materials/models/player/kuristaja/tf2/pyro/pyro_normal.vtf
+materials/models/player/kuristaja/tf2/pyro/pyro_red.vtf

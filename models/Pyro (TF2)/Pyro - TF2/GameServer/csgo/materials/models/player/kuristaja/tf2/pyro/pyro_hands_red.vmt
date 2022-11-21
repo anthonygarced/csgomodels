@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/tf2/pyro/pyro_hands"
+	"$basemapalphaphongmask" "1"
+
+	"$phong" "1"
+	"$phongexponent" "70"
+	"$phongboost" ".05"	
+	"$lightwarptexture" "models/player/kuristaja/tf2/pyro/engineer_hands_lightwarp"
+	"$phongfresnelranges"	"[1 5 10]"
+	"$halflambert" "1"
+	
+	// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "4"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" ".5"										// Boost for ambient cube component of rim lighting
+}
