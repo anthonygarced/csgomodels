@@ -1,0 +1,32 @@
+{
+	"name": "Counter-Strike: Source Weapon Models",
+	"authors":
+	[
+		{
+			"name": "goolas",
+			"social": "youtube.com/channel/UC1qtjBu0Oa-H6R25jm_XBMQ",
+			"role": "CS:SO porting, first-person models porting, CS:GO rig, StatTrak support"
+		},
+		{
+			"name": "hampta",
+			"social": "youtube.com/channel/UCXV8fJ0VaUrcdC1XV-Sv7qw",
+			"role": "CS:SO porting, first-person model fixes"
+		},
+		{
+			"name": "x F R 3 N Z Y M O V x",
+			"social": "youtube.com/channel/UChqWtrcaTpB9IkkDRMNfSgw",
+			"role": "CS:SO porting, world models porting, extra fixes"
+		},
+		{
+			"name": "Rovelle",
+			"social": "gamebanana.com/members/1327066",
+			"role": "CS:S arms rig for CS:GO"
+		},
+		{
+			"name": "CrazySlavModder",
+			"social": "twitter.com/CrazySlavModder",
+			"role": "Porting to CS:GO, extra adjustments"
+		}
+	],
+	"replacement": "CS:GO weapon models and arms"
+}
