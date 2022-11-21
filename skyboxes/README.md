@@ -5,8 +5,7 @@
 - ❓ How to skybox? Read here: **todo**
 
 ## Skyboxes
- -
-  - For the full Mega.nz folder containing the entire collection, click **<a href="https://mega.nz/folder/YSFyHLaZ#Z8J_UxZl6BfhWiNK1w-A2g">here</a>**.
+ - For the full Mega.nz folder containing the entire collection, click **<a href="https://mega.nz/folder/YSFyHLaZ#Z8J_UxZl6BfhWiNK1w-A2g">here</a>**.
 
  - List of Skyboxes
   - <a href="https://mega.nz/folder/5Psg0IpC#QB-zuzYfJQUD0pn8O3HkDA">Glorious Morning</a> - Who hasn't used this skybox before?
