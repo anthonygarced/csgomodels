@@ -1,0 +1,47 @@
+// TF2 Sniper ported by Kuristaja //
+
+// Player model (RED)
+models/player/custom_player/kuristaja/tf2/sniper/sniper_redv2.dx90.vtx
+models/player/custom_player/kuristaja/tf2/sniper/sniper_redv2.mdl
+models/player/custom_player/kuristaja/tf2/sniper/sniper_redv2.phy
+models/player/custom_player/kuristaja/tf2/sniper/sniper_redv2.vvd
+
+
+// Player model (BLU)
+models/player/custom_player/kuristaja/tf2/sniper/sniper_bluv2.dx90.vtx
+models/player/custom_player/kuristaja/tf2/sniper/sniper_bluv2.mdl
+models/player/custom_player/kuristaja/tf2/sniper/sniper_bluv2.phy
+models/player/custom_player/kuristaja/tf2/sniper/sniper_bluv2.vvd
+
+// Arms model (RED)
+models/player/custom_player/kuristaja/tf2/sniper/sniper_red_arms.dx90.vtx
+models/player/custom_player/kuristaja/tf2/sniper/sniper_red_arms.mdl
+models/player/custom_player/kuristaja/tf2/sniper/sniper_red_arms.vvd
+
+// Arms model (BLU)
+models/player/custom_player/kuristaja/tf2/sniper/sniper_blu_arms.dx90.vtx
+models/player/custom_player/kuristaja/tf2/sniper/sniper_blu_arms.mdl
+models/player/custom_player/kuristaja/tf2/sniper/sniper_blu_arms.vvd
+
+// Materials
+materials/models/player/kuristaja/tf2/sniper/eyes.vmt
+materials/models/player/kuristaja/tf2/sniper/sniper_blue.vmt
+materials/models/player/kuristaja/tf2/sniper/sniper_blue_bullets.vmt
+materials/models/player/kuristaja/tf2/sniper/sniper_hand_blue.vmt
+materials/models/player/kuristaja/tf2/sniper/sniper_hand_red.vmt
+materials/models/player/kuristaja/tf2/sniper/sniper_head_blue.vmt
+materials/models/player/kuristaja/tf2/sniper/sniper_head_red.vmt
+materials/models/player/kuristaja/tf2/sniper/sniper_lens.vmt
+materials/models/player/kuristaja/tf2/sniper/sniper_red.vmt
+materials/models/player/kuristaja/tf2/sniper/sniper_red_bullets.vmt
+materials/models/player/kuristaja/tf2/sniper/eye-iris-blue.vtf
+materials/models/player/kuristaja/tf2/sniper/pyro_lightwarp.vtf
+materials/models/player/kuristaja/tf2/sniper/shared_normal.vtf
+materials/models/player/kuristaja/tf2/sniper/sniper_blue.vtf
+materials/models/player/kuristaja/tf2/sniper/sniper_hand.vtf
+materials/models/player/kuristaja/tf2/sniper/sniper_hand_normal.vtf
+materials/models/player/kuristaja/tf2/sniper/sniper_head.vtf
+materials/models/player/kuristaja/tf2/sniper/sniper_lens.vtf
+materials/models/player/kuristaja/tf2/sniper/sniper_normal.vtf
+materials/models/player/kuristaja/tf2/sniper/sniper_red.vtf
+materials/models/player/kuristaja/tf2/sniper/soldier_normal.vtf

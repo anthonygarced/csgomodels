@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/tf2/sniper/sniper_lens"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" ".7"
+	"$envmaptint" " [1 .7 .35]"
+//	"$envmapmask" "models/player/sniper/sniper_lens_specular"
+	"$translucent" 1
+//	"$additive" 1
+	"$model" "1"
+}
